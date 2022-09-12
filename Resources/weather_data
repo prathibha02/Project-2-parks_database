@@ -1,0 +1,276 @@
+,parkCode,Park Name,City,State,Lat,Lng,Min Temp,Max Temp,Humidity,Cloudiness,Wind Speed,Date,Country
+0,acad,Acadia National Park,Bar Harbor,ME,44.4093,-68.2475,294.66,298.85,74,20,3.6,1663016608,US
+1,agfo,Agate Fossil Beds National Monument,Harrison,NE,42.4217,-103.7539,301.94,302.96,8,0,5.82,1663016608,US
+2,alka,Ala Kahakai National Historic Trail,Kailua-Kona,HI,19.1447,-155.8907,299.48,299.48,65,91,2.08,1663016609,US
+3,alfl,Alibates Flint Quarries National Monument,Potter County,TX,35.582,-101.6717,303.48,306.09,40,0,4.72,1663016609,US
+4,alpo,Allegheny Portage Railroad National Historic Site,Gallitzin,PA,40.4298,-78.5743,292.99,297.14,86,82,3.19,1663016609,US
+5,amis,Amistad National Recreation Area,Del Rio,TX,29.5354,-101.0758,304.05,304.88,36,88,5.15,1663016610,US
+6,ania,Aniakchak National Monument & Preserve,KIng Salmon,AK,56.8532,-157.5544,282.44,282.44,80,99,5.07,1663016610,US
+7,anti,Antietam National Battlefield,Sharpsburg,MD,39.4676,-77.7383,294.84,298.82,96,54,1.96,1663016610,US
+8,apis,Apostle Islands National Lakeshore,Bayfield,WI,46.9624,-90.6605,291.79,294.57,58,5,1.98,1663016610,US
+9,appa,Appalachian National Scenic Trail,Harpers Ferry,WV,40.4103,-76.4338,295.94,300.28,78,75,0,1663016611,US
+10,apco,Appomattox Court House National Historical Park,Appomattox,VA,37.3802,-78.7986,298.46,301.75,71,98,0.45,1663016611,US
+11,arch,Arches National Park,Moab,UT,38.7226,-109.5864,301.1,305.05,17,0,3.09,1663016611,US
+12,arpo,Arkansas Post National Memorial,Gillett,AR,34.0039,-91.3084,299.22,299.22,26,0,2.93,1663016612,US
+13,asis,Assateague Island National Seashore,Berlin,MD,38.0559,-75.2452,298.16,303.76,82,7,5.62,1663016612,US
+14,azru,Aztec Ruins National Monument,Aztec,NM,36.8368,-107.9999,301.13,303.03,24,100,0.45,1663016612,US
+15,badl,Badlands National Park,Interior,SD,43.6858,-102.4829,302.33,302.33,10,0,1.81,1663016612,US
+16,band,Bandelier National Monument,Los Alamos,NM,35.779,-106.3317,297.49,300.41,20,0,2.57,1663016613,US
+17,beol,Bent's Old Fort National Historic Site,La Junta,CO,38.0398,-103.4266,304.51,305.13,18,0,2.21,1663016613,US
+18,bela,Bering Land Bridge National Preserve,Nome,AK,65.9609,-164.4086,284.51,284.51,78,97,2.16,1663016613,US
+19,bibe,Big Bend National Park,Big Bend National Park,TX,29.2982,-103.2298,301.43,302.26,32,4,1.65,1663016614,US
+20,bicy,Big Cypress National Preserve,Ochopee,FL,25.9708,-81.0812,305.12,305.12,53,93,3.31,1663016614,US
+21,biho,Big Hole National Battlefield,Wisdom,MT,45.6465,-113.6458,300.58,300.58,9,95,3.63,1663016614,US
+22,biso,Big South Fork National River & Recreation Area,Oneida,TN,36.5348,-84.6651,294.73,295.66,51,0,4.63,1663016615,US
+23,bith,Big Thicket National Preserve,Kountze,TX,30.458,-94.3867,302.88,303.99,36,59,2.08,1663016615,US
+24,bica,Bighorn Canyon National Recreation Area,Lovell,WY,45.1315,-108.1444,299,299.7,24,63,1.85,1663016615,US
+25,blca,Black Canyon Of The Gunnison National Park,Montrose,CO,38.5778,-107.7243,300.66,303.51,11,0,3.41,1663016616,US
+26,blri,Blue Ridge Parkway,Asheville,NC,35.5657,-82.4865,294.96,299.58,74,75,1.54,1663016616,US
+27,blue,Bluestone National Scenic River,Pipestem,WV,37.5658,-80.9837,293.92,295.25,91,97,1.91,1663016616,US
+28,bowa,Booker T Washington National Monument,Hardy,VA,37.1152,-79.7319,299.31,301.8,72,60,1.34,1663016616,US
+29,boha,Boston Harbor Islands National Recreation Area,Boston,MA,42.3091,-70.9394,294.26,300.99,78,75,3.6,1663016617,US
+30,brca,Bryce Canyon National Park,Bryce,UT,37.584,-112.1827,294.31,294.31,35,20,6.17,1663016617,US
+31,buis,Buck Island Reef National Monument,"Christiansted, St. Croix",VI,17.8103,-64.6222,301.71,301.71,83,55,5.01,1663016617,VI
+32,buff,Buffalo National River,St. Joe,AR,36.0412,-92.9076,297.47,299.28,28,0,2.72,1663016618,US
+33,cabr,Cabrillo National Monument,San Diego,CA,32.6723,-117.2416,296.31,304.49,78,75,6.17,1663016618,US
+34,cali,California National Historic Trail,Santa Fe,NM,42.4,-108.7024,297.45,298.33,9,0,4.63,1663016618,US
+35,cane,Camp Nelson National Monument,Nicholasville,KY,37.797,-84.5982,294.08,296.54,43,0,4.2,1663016619,US
+36,cana,Canaveral National Seashore,New Smyrna Beach,FL,28.7864,-80.7542,302.22,308.2,70,0,3.09,1663016619,US
+37,cach,Canyon de Chelly National Monument,Chinle,AZ,36.1432,-109.3388,298.68,298.68,31,97,6.15,1663016619,US
+38,cany,Canyonlands National Park,Moab,UT,38.2456,-109.8802,305.8,305.8,20,44,5.25,1663016620,US
+39,caco,Cape Cod National Seashore,Eastham,MA,41.9238,-70.0432,292.04,296.23,95,100,3.13,1663016620,US
+40,caha,Cape Hatteras National Seashore,Buxton,NC,35.4137,-75.6506,301.16,302.59,71,100,7.3,1663016620,US
+41,cakr,Cape Krusenstern National Monument,Kotzebue,AK,67.415,-163.5038,283.71,283.71,95,100,3.78,1663016621,US
+42,care,Capitol Reef National Park,Torrey,UT,38.2822,-111.247,298.66,303.75,23,96,6.16,1663016621,US
+43,cavo,Capulin Volcano National Monument,Capulin,NM,36.7817,-103.971,297.43,300.07,14,3,4.42,1663016621,US
+44,carl,Carl Sandburg Home National Historic Site,Flat Rock,NC,35.2682,-82.4511,294.96,301.72,78,40,2.05,1663016622,US
+45,cave,Carlsbad Caverns National Park,Carlsbad,NM,32.1409,-104.553,299.33,299.68,36,17,2.01,1663016622,US
+46,cato,Catoctin Mountain Park,Thurmont,MD,39.6507,-77.4642,294.16,298.2,94,100,0.45,1663016622,US
+47,cebr,Cedar Breaks National Monument,Brian Head,UT,37.6355,-112.8453,291.04,291.47,45,100,2.87,1663016622,US
+48,chcu,Chaco Culture National Historical Park,Nageezi,NM,36.0396,-107.956,298.78,298.78,24,95,2.47,1663016623,US
+49,cham,Chamizal National Memorial,El Paso,TX,31.7673,-106.4544,304.28,305.56,34,20,4.12,1663016623,US
+50,chis,Channel Islands National Park,Ventura,CA,33.9868,-119.9113,297.35,298.17,76,1,4.4,1663016623,US
+51,chpi,Charles Pinckney National Historic Site,Mount Pleasant,SC,32.8458,-79.8249,302.01,303.68,72,0,3.6,1663016624,US
+52,chat,Chattahoochee River National Recreation Area,Sandy Springs,GA,33.997,-84.2895,297.93,302.12,69,40,4.63,1663016624,US
+53,choh,Chesapeake & Ohio Canal National Historical Park,Williamsport,MD,39.0003,-77.2481,295.8,300.63,86,75,4.63,1663016624,US
+54,chch,Chickamauga & Chattanooga National Military Park,Fort Oglethorpe,GA,34.9432,-85.2875,295.68,300.01,52,20,3.09,1663016625,US
+55,chic,Chickasaw National Recreation Area,Sulphur,OK,34.4605,-97.0072,300.9,302.75,31,0,3.09,1663016625,US
+56,chir,Chiricahua National Monument,Willcox,AZ,32.0121,-109.3416,290.87,301.03,69,54,2.24,1663016625,US
+57,ciro,City Of Rocks National Reserve,Almo,ID,42.0699,-113.7124,301.37,301.37,10,96,4.97,1663016626,US
+58,cwdw,Civil War Defenses of Washington,Washington,DC,38.9644,-77.0292,296.77,300.64,82,75,3.6,1663016626,US
+59,colm,Colorado National Monument,Fruita,CO,39.0505,-108.6921,301.22,302.16,16,0,3.09,1663016626,US
+60,cong,Congaree National Park,Hopkins,SC,33.7919,-80.7487,302.29,305.53,70,0,2.57,1663016627,US
+61,coro,Coronado National Memorial,Hereford,AZ,31.349,-110.2562,297.76,303.03,38,22,3.17,1663016627,US
+62,crla,Crater Lake National Park,Crater Lake,OR,42.9407,-122.1338,294.77,294.77,36,57,3.03,1663016627,US
+63,crmo,Craters Of The Moon National Monument & Preserve,Arco,ID,43.2035,-113.4792,302.6,302.6,7,98,2.03,1663016627,US
+64,cuga,Cumberland Gap National Historical Park,Middlesboro,KY,36.625,-83.6114,294.79,296.81,46,40,3.09,1663016628,US
+65,cuis,Cumberland Island National Seashore,St. Marys,GA,30.8586,-81.4525,298.14,302.15,78,100,4.24,1663016628,US
+66,cure,Curecanti National Recreation Area,Gunnison,CO,38.4658,-107.3303,297.84,299.47,10,4,4.85,1663016628,US
+67,cuva,Cuyahoga Valley National Park,Peninsula,OH,41.2609,-81.5712,293.26,296.71,61,6,1.79,1663016629,US
+68,deva,Death Valley National Park,Death Valley,CA,36.4875,-117.1344,295.41,295.41,30,100,2.38,1663016629,US
+69,dewa,Delaware Water Gap National Recreation Area,Bushkill,PA,41.1279,-74.9475,296.28,300.71,79,62,2.2,1663016629,US
+70,dena,Denali National Park & Preserve,Denali Park,AK,63.2978,-151.0527,283.05,283.05,63,68,1.93,1663016630,US
+71,depo,Devils Postpile National Monument,Mammoth Lakes,CA,37.6153,-119.0874,292.53,292.9,65,75,2.67,1663016630,US
+72,deto,Devils Tower National Monument,Devils Tower,WY,44.5906,-104.7156,298.6,299.8,24,0,2.06,1663016630,US
+73,dino,Dinosaur National Monument,Jensen,UT,40.5074,-108.9334,300.15,302.13,9,0,2.92,1663016630,US
+74,ebla,Ebey's Landing National Historical Reserve,Coupeville,WA,48.214,-122.6877,288.46,296.61,68,75,2.06,1663016631,US
+75,efmo,Effigy Mounds National Monument,Harpers Ferry,IA,43.081,-91.1969,288.83,295.75,63,100,3.6,1663016631,US
+76,elca,El Camino Real de Tierra Adentro National Historic Trail,Santa Fe,NM,33.7991,-106.8664,303.71,303.71,31,19,2.69,1663016631,US
+77,elte,El Camino Real de los Tejas National Historic Trail,Santa Fe,NM,30.0923,-97.3398,304.39,307.99,44,5,0.45,1663016632,US
+78,elma,El Malpais National Monument,Grants,NM,34.8842,-107.9951,289.87,289.87,28,99,1.53,1663016632,US
+79,elmo,El Morro National Monument,Ramah,NM,35.039,-108.3464,289.85,298.14,28,99,2.6,1663016632,US
+80,elro,Eleanor Roosevelt National Historic Site,Hyde Park,NY,41.7621,-73.8989,297.54,301.1,71,75,2.57,1663016632,US
+81,ever,Everglades National Park,Homestead,FL,25.3729,-80.882,305.37,305.37,63,69,2.13,1663016633,US
+82,fiis,Fire Island National Seashore,Patchogue,NY,40.6967,-73.0001,296.25,301.16,75,40,3.09,1663016633,US
+83,frst,First State National Historical Park,New Castle,DE,39.8308,-75.5635,297.84,302.59,72,20,4.12,1663016633,US
+84,flni,Flight 93 National Memorial,Stoystown,PA,40.0606,-78.8946,291.02,295.69,82,75,3.09,1663016634,US
+85,flfo,Florissant Fossil Beds National Monument,Florissant,CO,38.9126,-105.2803,295.37,298.87,13,0,1.34,1663016634,US
+86,fobo,Fort Bowie National Historic Site,Bowie,AZ,32.1493,-109.4511,293.86,304.02,71,14,0.77,1663016635,US
+87,foda,Fort Davis National Historic Site,Fort Davis,TX,30.5993,-103.8962,296.38,299.04,48,59,0.24,1663016635,US
+88,fodo,Fort Donelson National Battlefield,Dover,TN,36.4902,-87.9245,297.03,298.45,49,0,1.34,1663016635,US
+89,fofo,Fort Foote Park,Oxon Hill,MD,38.769,-77.0281,296.83,300.93,82,75,3.6,1663016635,US
+90,fofr,Fort Frederica National Monument,St. Simons Island,GA,31.2215,-81.3945,301.16,302.17,78,75,3.09,1663016636,US
+91,fomc,Fort McHenry National Monument and Historic Shrine,Baltimore,MD,39.264,-76.5804,298.17,301.16,82,75,2.06,1663016636,US
+92,fomr,Fort Monroe National Monument,Fort Monroe,VA,37.0173,-76.301,302.6,305.94,59,40,6.17,1663016636,US
+93,fone,Fort Necessity National Battlefield,Farmington,PA,39.8131,-79.5903,291.13,295.43,70,79,3.16,1663016637,US
+94,fopu,Fort Pulaski National Monument,Savannah,GA,32.0308,-80.9336,300.93,303.18,64,99,1.34,1663016637,US
+95,fost,Fort Stanwix National Monument,Rome,NY,43.2105,-75.4556,296.41,299.11,75,100,3.09,1663016637,US
+96,fous,Fort Union Trading Post National Historic Site,Williston,ND,48.0008,-104.0375,301.99,302.47,19,52,4.92,1663016638,US
+97,fobu,Fossil Butte National Monument,Kemmerer,WY,41.8564,-110.7625,297.48,300.22,6,0,1.25,1663016638,US
+98,frsp,Fredericksburg & Spotsylvania National Military Park,Fredericksburg,VA,38.2938,-77.4673,295.84,302.45,76,40,0.89,1663016638,US
+99,frhi,Friendship Hill National Historic Site,Point Marion,PA,39.7754,-79.925,292.94,296.56,77,100,4.63,1663016638,US
+100,gaar,Gates Of The Arctic National Park & Preserve,Fairbanks,AK,67.7596,-153.2918,275.66,275.66,99,100,0.97,1663016639,US
+101,gewa,George Washington Birthplace National Monument,Colonial Beach,VA,38.1936,-76.9208,298.84,302.28,85,69,1.34,1663016639,US
+102,gett,Gettysburg National Military Park,Gettysburg,PA,39.8156,-77.2325,295.65,299.63,94,48,2.73,1663016639,US
+103,gicl,Gila Cliff Dwellings National Monument,Mimbres,NM,33.2272,-108.2707,296.41,299.38,35,81,3.05,1663016640,US
+104,glba,Glacier Bay National Park & Preserve,Gustavus,AK,58.8009,-136.8408,278.24,278.24,92,64,0.96,1663016640,US
+105,glac,Glacier National Park,West Glacier,MT,48.6841,-113.8009,294.47,294.47,28,95,1.79,1663016640,US
+106,glca,Glen Canyon National Recreation Area,Page,AZ,36.9357,-111.4856,302.56,305.54,29,40,1.34,1663016641,US
+107,goga,Golden Gate National Recreation Area,San Francisco,CA,37.8598,-122.6007,288.71,303.28,85,48,4.92,1663016641,US
+108,gosp,Golden Spike National Historical Park,"Promontory, Utah",UT,41.6195,-112.5243,300.55,302.68,12,83,3.26,1663016641,US
+109,grca,Grand Canyon National Park,Grand Canyon,AZ,36.0001,-112.1215,295.36,296.77,41,20,1.54,1663016642,US
+110,para,Grand Canyon-Parashant National Monument,St. George,UT,36.4154,-113.6683,295.36,295.36,45,57,3.85,1663016642,US
+111,grpo,Grand Portage National Monument,Grand Portage,MN,47.9929,-89.7557,292.89,293.26,53,0,2.57,1663016642,CA
+112,grte,Grand Teton National Park,Moose,WY,43.8185,-110.7055,297.12,299.62,8,7,1.28,1663016643,US
+113,grko,Grant-Kohrs Ranch National Historic Site,Deer Lodge,MT,46.4136,-112.7467,303.38,303.38,15,87,1.98,1663016643,US
+114,grba,Great Basin National Park,Baker,NV,38.9462,-114.258,289.57,289.57,34,79,6.07,1663016644,US
+115,greg,Great Egg Harbor River,Estell Manor,NJ,39.3042,-74.6497,298.16,303.89,75,0,4.63,1663016644,US
+116,grfa,Great Falls Park,McLean,VA,38.9878,-77.2513,296.03,300.86,84,75,4.63,1663016644,US
+117,grsa,Great Sand Dunes National Park & Preserve,Mosca,CO,37.7926,-105.592,297.55,298.43,11,0,1.28,1663016645,US
+118,grsm,Great Smoky Mountains National Park,Gatlinburg,TN,35.6012,-83.5082,289.6,295.77,54,64,2.33,1663016645,US
+119,gree,Greenbelt Park,Greenbelt,MD,38.9833,-76.8972,297.65,300.98,83,75,3.6,1663016645,US
+120,gumo,Guadalupe Mountains National Park,Salt Flat,TX,31.923,-104.8855,296.56,296.56,38,14,2.04,1663016646,US
+121,guis,Gulf Islands National Seashore,Gulf Breeze,FL,30.2992,-87.7506,299.27,304.18,80,75,3.6,1663016646,US
+122,hafo,Hagerman Fossil Beds National Monument,Hagerman,ID,42.7907,-114.9443,302.21,306.65,9,100,2.71,1663016646,US
+123,hale,Haleakalā National Park,Kula,HI,20.7069,-156.1592,287.06,291.79,80,68,3.38,1663016647,US
+124,hamp,Hampton National Historic Site,Towson,MD,39.4175,-76.5878,297.47,300.46,84,75,2.06,1663016647,US
+125,hafe,Harpers Ferry National Historical Park,Harpers Ferry,WV,39.3187,-77.7409,293.66,298.03,69,43,1.71,1663016647,US
+126,havo,Hawaiʻi Volcanoes National Park,Hawaii National Park,HI,19.3355,-155.47,293.52,293.52,51,40,3.8,1663016648,US
+127,heho,Herbert Hoover National Historic Site,West Branch,IA,41.6679,-91.3523,292.12,295.33,50,100,8.23,1663016648,US
+128,home,Homestead National Historical Park,Beatrice,NE,40.288,-96.8339,302.71,303.41,28,0,4.12,1663016648,US
+129,hofu,Hopewell Furnace National Historic Site,Elverson,PA,40.2061,-75.7677,296.49,301.43,85,75,0,1663016649,US
+130,hobe,Horseshoe Bend National Military Park,Daviston,AL,32.9767,-85.7341,300.22,301.57,64,92,2.57,1663016649,US
+131,hosp,Hot Springs National Park,Hot Springs,AR,34.5181,-93.058,297.97,301.31,27,0,0.45,1663016448,US
+132,hove,Hovenweep National Monument,Cortez,CO,37.3913,-109.0048,300.43,302.92,24,100,3.89,1663016649,US
+133,iatr,Ice Age National Scenic Trail,Cross Plains,WI,43.9896,-89.5612,287.64,287.85,96,100,4.55,1663016650,US
+134,indu,Indiana Dunes National Park,Porter,IN,41.6377,-87.0965,286.25,288.46,97,100,3.96,1663016650,US
+135,isro,Isle Royale National Park,Houghton,MI,48.0115,-88.8278,290.57,290.57,55,2,2.02,1663016650,US
+136,jeca,Jewel Cave National Monument,Custer,SD,43.731,-103.83,297.77,301.58,15,0,4.12,1663016651,US
+137,joda,John Day Fossil Beds National Monument,Kimberly,OR,44.6257,-119.8811,293.35,293.63,29,100,1.16,1663016651,US
+138,jomu,John Muir National Historic Site,Martinez,CA,37.9828,-122.1326,288.33,305.22,50,0,4.63,1663016651,US
+139,jofl,Johnstown Flood National Memorial,South Fork,PA,40.3458,-78.7745,291.87,298.82,81,75,2.06,1663016652,US
+140,jotr,Joshua Tree National Park,Twentynine Palms,CA,33.9142,-115.8398,300.34,305.58,71,92,2.08,1663016652,US
+141,juba,Juan Bautista de Anza National Historic Trail,Richmond,CA,33.8743,-117.2242,299.64,304.47,60,75,2.57,1663016652,US
+142,kaho,Kaloko-Honokōhau National Historical Park,Kailua-Kona,HI,19.6808,-156.0307,299.67,303.38,68,40,6.69,1663016653,US
+143,kaww,Katahdin Woods and Waters National Monument,Patten,ME,45.9568,-68.7123,297.72,298,63,56,0.62,1663016653,US
+144,katm,Katmai National Park & Preserve,King Salmon,AK,58.6224,-155.0127,284.71,284.71,87,100,3.38,1663016653,US
+145,kefj,Kenai Fjords National Park,Seward,AK,59.818,-150.1065,276.42,276.42,97,100,2.64,1663016654,US
+146,keaq,Kenilworth Park & Aquatic Gardens,Washington,DC,38.9128,-76.9434,297.53,301.13,80,75,3.6,1663016654,US
+147,kemo,Kennesaw Mountain National Battlefield Park,Kennesaw,GA,33.9537,-84.5921,297.54,301.75,70,40,5.14,1663016654,US
+148,kewe,Keweenaw National Historical Park,Calumet,MI,47.1792,-88.5228,290.57,294.05,57,0,5.66,1663016655,US
+149,klgo,Klondike Gold Rush National Historical Park,Skagway,AK,59.6104,-135.2619,274.64,274.64,76,0,2.06,1663016655,CA
+150,knri,Knife River Indian Villages National Historic Site,Stanton,ND,47.354,-101.3861,304.18,305.58,18,0,4.12,1663016655,US
+151,kova,Kobuk Valley National Park,Kotzebue,AK,67.3563,-159.2002,279.61,279.61,98,100,1.72,1663016656,US
+152,lyba,LBJ Memorial Grove on the Potomac,Washington,DC,38.8786,-77.0515,296.97,301.16,82,75,3.6,1663016656,US
+153,lacl,Lake Clark National Park & Preserve,Port Alsworth,AK,60.5741,-153.5554,276.58,276.58,95,100,2.8,1663016656,US
+154,lake,Lake Mead National Recreation Area,Boulder City,NV,35.9662,-114.3469,302.29,302.58,36,3,2.1,1663016656,US
+155,lamr,Lake Meredith National Recreation Area,Fritch,TX,35.6193,-101.682,303.61,306.22,40,0,2.68,1663016657,US
+156,laro,Lake Roosevelt National Recreation Area,Coulee Dam,WA,48.1715,-118.3514,297.69,297.69,24,99,1.51,1663016657,US
+157,lavo,Lassen Volcanic National Park,Mineral,CA,40.4935,-121.4076,292.57,293.96,34,84,3.84,1663016657,US
+158,labe,Lava Beds National Monument,Tulelake,CA,41.7592,-121.5172,299.53,301.17,36,92,1.89,1663016658,US
+159,lecl,Lewis & Clark National Historic Trail,Omaha,NE,41.2646,-95.9245,299.45,302.29,36,0,3.09,1663016658,US
+160,lewi,Lewis and Clark National Historical Park,Astoria,OR,46.2118,-123.9639,289.82,293.31,70,100,2.57,1663016658,US
+161,libo,Lincoln Boyhood National Memorial,Lincoln City,IN,38.1182,-86.9966,295.66,299.02,43,100,6.17,1663016658,US
+162,liri,Little River Canyon National Preserve,Fort Payne,AL,34.4146,-85.6173,294.53,298.47,59,4,1.34,1663016659,US
+163,lode,Lower Delaware National Wild and Scenic River,Philadelphia,PA,40.4,-74.9837,298.86,302.44,76,75,2.06,1663016659,US
+164,maca,Mammoth Cave National Park,Mammoth Cave,KY,37.1976,-86.1309,295.47,296.93,44,9,3.39,1663016659,US
+165,mana,Manassas National Battlefield Park,Manassas,VA,38.8171,-77.5353,295.06,300.62,85,100,4.63,1663016660,US
+166,mabi,Marsh - Billings - Rockefeller National Historical Park,Woodstock,VT,43.6335,-72.5342,295.72,299.08,71,81,1.23,1663016660,US
+167,meve,Mesa Verde National Park,Mesa Verde National Park,CO,37.2391,-108.4624,296.84,299.33,23,0,4.12,1663016660,US
+168,mima,Minute Man National Historical Park,Lincoln,MA,42.4563,-71.3074,295.88,300.73,70,75,1.54,1663016661,US
+169,miss,Mississippi National River and Recreation Area,Saint Paul,MN,44.9425,-93.0987,296.06,299.33,38,0,6.17,1663016661,US
+170,mnrr,Missouri National Recreational River,Yankton,SD,42.7882,-97.5908,299.98,301.79,31,0,1.76,1663016661,US
+171,moja,Mojave National Preserve,Kelso,CA,35.1249,-115.5168,298.52,298.52,33,75,3.88,1663016662,US
+172,mono,Monocacy National Battlefield,Frederick,MD,39.3608,-77.3964,296.16,300.16,69,35,1.87,1663016662,US
+173,moca,Montezuma Castle National Monument,Camp Verde,AZ,34.6224,-111.8148,302.95,305.18,35,4,3.83,1663016662,US
+174,mopi,Mormon Pioneer National Historic Trail,Santa Fe,NM,41.265,-101.8408,303.39,306.12,15,0,0,1663016663,US
+175,morr,Morristown National Historical Park,Morristown,NJ,40.7651,-74.5346,297.52,301.32,70,40,2.57,1663016663,US
+176,mora,Mount Rainier National Park,Ashford,WA,46.8608,-121.7044,280.41,282.94,57,29,1.6,1663016663,US
+177,muwo,Muir Woods National Monument,Mill Valley,CA,37.8966,-122.5808,287.8,302.47,86,46,3.96,1663016664,US
+178,natt,Natchez Trace National Scenic Trail,Tupelo,MS,34.3303,-88.71,298.33,300.23,42,0,3.6,1663016664,US
+179,natr,Natchez Trace Parkway,Tupelo,MS,33.78,-89.0309,298.59,300.13,32,0,2.65,1663016664,US
+180,npsa,National Park of American Samoa,Pago Pago,AS,-14.2287,-169.8504,300.03,300.03,75,4,9.1,1663016665,AS
+181,npnh,National Parks of New York Harbor,New York,NY,40.6632,-74.0451,298.15,302.22,67,75,3.13,1663016665,US
+182,nabr,Natural Bridges National Monument,Lake Powell,UT,37.6045,-110.0022,300.3,300.3,26,100,6.83,1663016665,US
+183,nava,Navajo National Monument,Shonto,AZ,36.7176,-110.5504,297.32,297.32,33,100,4.64,1663016666,US
+184,neen,New England National Scenic Trail,Springfield,MA,42.2916,-72.5243,296.42,299.73,72,40,0,1663016666,US
+185,neri,New River Gorge National Park and Preserve,Glen Jean,WV,37.8688,-80.9996,291.16,293.68,80,100,2.57,1663016666,US
+186,nepe,Nez Perce National Historical Park,Lapwai,ID,46.0702,-115.8761,296.34,296.34,15,100,2.19,1663016667,US
+187,niob,Niobrara National Scenic River,Valentine,NE,42.7941,-99.9187,304.18,304.64,24,0,0.37,1663016667,US
+188,noat,Noatak National Preserve,Kotzebue,AK,68.0103,-159.8317,277.74,277.74,97,100,1.42,1663016667,US
+189,noca,North Cascades National Park,Sedro-Woolley,WA,48.7117,-121.2069,295.62,295.62,36,93,2.38,1663016667,US
+190,noco,North Country National Scenic Trail,Lowell,MI,46.3344,-90.8166,293.34,295.1,37,15,3.12,1663016668,US
+191,obed,Obed Wild & Scenic River,Wartburg,TN,36.1056,-84.5979,293,297.28,39,0,3.36,1663016668,US
+192,ocmu,Ocmulgee Mounds National Historical Park,Macon,GA,32.8382,-83.6022,298.87,303.13,68,20,0,1663016668,US
+193,olsp,Old Spanish National Historic Trail,Santa Fe,NM,37.0792,-112.1147,301.72,301.72,49,100,7.81,1663016669,US
+194,olym,Olympic National Park,Port Angeles,WA,47.8039,-123.6664,282,284.88,48,1,2.5,1663016669,US
+195,orca,Oregon Caves National Monument & Preserve,Cave Junction,OR,42.1032,-123.4019,295.79,298.15,21,11,2.41,1663016669,US
+196,oreg,Oregon National Historic Trail,Santa Fe,NM,41.9877,-109.6342,298.42,298.42,7,0,1.13,1663016670,US
+197,orpi,Organ Pipe Cactus National Monument,Ajo,AZ,32.0359,-112.8573,305.99,305.99,32,43,4.47,1663016670,MX
+198,ovvi,Overmountain Victory National Historic Trail,Gaffney,SC,35.1404,-81.377,298.86,304.11,61,88,0.89,1663016670,US
+199,oxhi,Oxon Cove Park & Oxon Hill Farm,Oxon Hill,MD,38.8058,-77.0113,296.83,300.86,82,75,3.6,1663016671,US
+200,ozar,Ozark National Scenic Riverways,Van Buren,MO,37.1397,-91.2571,296.53,299.54,26,1,4.01,1663016671,US
+201,paal,Palo Alto Battlefield National Historical Park,Brownsville,TX,26.0239,-97.463,303.7,307.15,57,0,5.66,1663016671,US
+202,peri,Pea Ridge National Military Park,Garfield,AR,36.4544,-94.0347,297.67,301.16,35,0,0.89,1663016672,US
+203,peco,Pecos National Historical Park,Pecos,NM,35.5419,-105.6815,298.04,300.96,27,100,1.79,1663016672,US
+204,pete,Petersburg National Battlefield,Petersburg,VA,37.1911,-77.4759,302.19,305.5,57,75,4.12,1663016672,US
+205,pefo,Petrified Forest National Park,Petrified Forest,AZ,34.9839,-109.7878,300.28,300.28,28,94,3.65,1663016672,US
+206,petr,Petroglyph National Monument,Albuquerque,NM,35.1392,-106.7491,300.55,303.67,28,0,4.12,1663016673,US
+207,piro,Pictured Rocks National Lakeshore,Munising,MI,46.5644,-86.3163,288.92,289.88,96,100,3.78,1663016673,US
+208,pinn,Pinnacles National Park,Paicines,CA,36.4903,-121.1814,299.87,305.03,23,17,4.86,1663016673,US
+209,pisp,Pipe Spring National Monument,Fredonia,AZ,36.8628,-112.7399,300.95,300.95,35,100,6,1663016674,US
+210,pore,Point Reyes National Seashore,Point Reyes Station,CA,38.0551,-122.8798,290.33,304.43,79,80,4.47,1663016674,US
+211,poex,Pony Express National Historic Trail,Santa Fe,NM,42.2366,-109.2661,298.07,298.07,7,0,2.43,1663016674,US
+212,pohe,Potomac Heritage National Scenic Trail,Williamsport,MD,39.1506,-77.523,295.09,300.65,71,28,1.55,1663016675,US
+213,popo,Poverty Point National Monument,Pioneer,LA,32.6424,-91.4083,299.28,302.13,47,1,3.34,1663016675,US
+214,prsf,Presidio of San Francisco,San Francisco,CA,37.797,-122.4671,288.13,303.96,82,27,11.62,1663016675,US
+215,prwi,Prince William Forest Park,Triangle,VA,38.5859,-77.3891,294.93,301.56,89,75,4.12,1663016675,US
+216,puho,Puʻuhonua o Hōnaunau National Historical Park,Hōnaunau,HI,19.4127,-155.9009,299.27,302.99,70,92,2.45,1663016676,US
+217,puhe,Puʻukoholā Heiau National Historic Site,Kawaihae,HI,20.0277,-155.8212,299.52,304.71,65,57,2.36,1663016676,US
+218,rabr,Rainbow Bridge National Monument,Lake Powell,UT,36.9943,-111.4915,302.75,305.73,29,40,1.34,1663016676,US
+219,redw,Redwood National and State Parks,Crescent City,CA,41.3724,-124.0318,287.68,298.82,65,27,2.87,1663016677,US
+220,rich,Richmond National Battlefield Park,Richmond,VA,37.4877,-77.2911,302.23,305.55,61,75,3.6,1663016677,US
+221,rigr,Rio Grande Wild & Scenic River,Big Bend National Park,TX,29.5274,-102.5979,302.5,302.5,33,8,2.66,1663016677,US
+222,rira,River Raisin National Battlefield Park,Monroe,MI,41.9129,-83.3762,290.96,293.75,61,40,2.06,1663016678,US
+223,rocr,Rock Creek Park,Washington,DC,38.9513,-77.05,296.81,300.93,82,75,3.6,1663016678,US
+224,romo,Rocky Mountain National Park,Estes Park,CO,40.3557,-105.6973,290.32,293.66,15,1,0.36,1663016678,US
+225,ruca,Russell Cave National Monument,Bridgeport,AL,34.974,-85.8156,294.42,297.8,43,0,3.46,1663016678,US
+226,sahi,Sagamore Hill National Historic Site,Oyster Bay,NY,40.8858,-73.4969,296.52,302.14,77,0,0.89,1663016679,US
+227,sagu,Saguaro National Park,Tucson,AZ,32.2091,-110.7575,302.02,305.34,50,8,1.34,1663016679,US
+228,sacn,Saint Croix National Scenic Riverway,St. Croix Falls,WI,45.7002,-92.3613,294.97,297.44,37,0,3.6,1663016679,US
+229,saga,Saint-Gaudens National Historical Park,Cornish,NH,43.4997,-72.3733,296.86,300.11,73,95,0.87,1663016680,US
+230,sapu,Salinas Pueblo Missions National Monument,Mountainair,NM,34.3542,-106.205,299.74,301.45,30,89,4.81,1663016680,US
+231,sajh,San Juan Island National Historical Park,Friday Harbor,WA,48.5124,-123.061,288.65,295.78,72,75,3.09,1663016681,US
+232,saju,San Juan National Historic Site,San Juan,PR,18.4687,-66.1185,299.76,302.41,81,75,5.14,1663016681,PR
+233,sand,Sand Creek Massacre National Historic Site,Eads,CO,38.5641,-102.517,303.76,305.57,13,0,1.62,1663016681,US
+234,safe,Santa Fe National Historic Trail,Santa Fe,NM,37.7277,-99.922,302.81,304.47,33,0,4.63,1663016682,US
+235,samo,Santa Monica Mountains National Recreation Area,Calabasas,CA,34.0978,-118.7709,294.85,304.01,61,21,0.89,1663016682,US
+236,sara,Saratoga National Historical Park,Stillwater,NY,42.9952,-73.6339,297.03,300.55,71,66,1.31,1663016682,US
+237,scbl,Scotts Bluff National Monument,Gering,NE,41.8346,-103.7071,303.56,305.91,12,0,2.57,1663016683,US
+238,seki,Sequoia & Kings Canyon National Parks,Three Rivers,CA,36.7128,-118.5874,291.81,293.47,63,93,1.99,1663016683,US
+239,shen,Shenandoah National Park,Luray,VA,38.4924,-78.4691,290.87,297.97,86,75,2.57,1663016683,US
+240,sitk,Sitka National Historical Park,Sitka,AK,57.0472,-135.3157,287.15,287.15,72,100,3.6,1663016684,US
+241,slbe,Sleeping Bear Dunes National Lakeshore,Empire,MI,44.9284,-86.0271,289.86,292.29,90,100,6.45,1663016684,US
+242,stsp,Star-Spangled Banner National Historic Trail,Baltimore,MD,39.2873,-76.6034,298.15,301.14,83,75,2.06,1663016684,US
+243,stri,Stones River National Battlefield,Murfreesboro,TN,35.8761,-86.4308,295.86,299.69,44,0,3.09,1663016685,US
+244,tapr,Tallgrass Prairie National Preserve,Strong City,KS,38.4402,-96.5671,302.01,302.01,19,0,3.66,1663016685,US
+245,this,Theodore Roosevelt Island,Arlington,VA,38.8958,-77.0624,296.96,301.16,83,75,3.6,1663016685,US
+246,thro,Theodore Roosevelt National Park,Medora,ND,47.1778,-103.43,302.47,302.47,13,41,6.94,1663016686,US
+247,thst,Thomas Stone National Historic Site,Port Tobacco,MD,38.5293,-77.0378,297,301.78,79,86,0.18,1663016686,US
+248,tica,Timpanogos Cave National Monument,American Fork,UT,40.4404,-111.7094,299.68,304.21,18,12,0.89,1663016686,US
+249,timu,Timucuan Ecological & Historic Preserve,Jacksonville,FL,30.4725,-81.4995,297.58,300.49,88,100,5.14,1663016687,US
+250,tont,Tonto National Monument,Roosevelt,AZ,33.6484,-111.1136,303.96,307.49,40,39,1.33,1663016687,US
+251,tusk,Tule Springs Fossil Beds National Monument,Las Vegas,NV,36.3893,-115.3202,299.67,303.48,40,67,1.79,1663016687,US
+252,tuma,Tumacácori National Historical Park,Tumacacori,AZ,31.5678,-111.0512,302.54,305.39,51,21,5.98,1663016687,US
+253,tuzi,Tuzigoot National Monument,Clarkdale,AZ,34.773,-112.0279,300.62,305.05,40,5,2.68,1663016688,US
+254,vall,Valles Caldera National Preserve,Jemez Springs,NM,35.9168,-106.5196,294.18,296.52,38,100,2.4,1663016688,US
+255,vafo,Valley Forge National Historical Park,King of Prussia,PA,40.1005,-75.4458,298.45,303.05,72,75,1.54,1663016688,US
+256,vama,Vanderbilt Mansion National Historic Site,Hyde Park,NY,41.797,-73.9421,297.72,300.62,73,75,2.57,1663016689,US
+257,vick,Vicksburg National Military Park,Vicksburg,MS,32.3621,-90.8503,300.86,301.83,42,0,4.12,1663016689,US
+258,viis,Virgin Islands National Park,St. John,VI,18.3428,-64.7419,300.43,300.46,73,12,4.78,1663016689,VI
+259,voya,Voyageurs National Park,International Falls,MN,48.4837,-92.8383,296.95,298.53,32,76,2.24,1663016690,CA
+260,waba,Washita Battlefield National Historic Site,Cheyenne,OK,35.6208,-99.7045,301.23,301.23,36,0,5.14,1663016690,US
+261,wefa,Weir Farm National Historical Park,Wilton,CT,41.2589,-73.4545,295.37,300.99,65,40,1.54,1663016690,US
+262,whis,Whiskeytown National Recreation Area,Whiskeytown,CA,40.6136,-122.6023,301.5,301.77,28,84,1.79,1663016691,US
+263,whsa,White Sands National Park,Alamogordo,NM,32.7791,-106.3333,301.19,303.93,33,14,1.06,1663016691,US
+264,whmi,Whitman Mission National Historic Site,Walla Walla,WA,46.0412,-118.4629,300.01,301.58,32,0,4.12,1663016691,US
+265,wicr,Wilson's Creek National Battlefield,Republic,MO,37.1,-93.4099,298.05,300.69,34,0,5.14,1663016692,US
+266,wica,Wind Cave National Park,Hot Springs,SD,43.5801,-103.4395,302.97,304.1,18,0,1.21,1663016692,US
+267,wotr,Wolf Trap National Park for the Performing Arts,Vienna,VA,38.9385,-77.2651,295.45,300.49,84,75,4.63,1663016692,US
+268,wrst,Wrangell - St Elias National Park & Preserve,Copper Center,AK,61.4182,-142.6028,284.03,284.03,63,100,1.01,1663016692,US
+269,wupa,Wupatki National Monument,Flagstaff,AZ,35.5574,-111.3957,296.72,300.97,38,92,5.51,1663016693,US
+270,yell,Yellowstone National Park,Yellowstone National Park,WY,44.5982,-110.5472,295.36,295.36,11,33,0.86,1663016693,US
+271,york,Yorktown Battlefield Part of Colonial National Historical Park,Yorktown,VA,37.2195,-76.4983,303.08,305.85,61,0,6.17,1663016693,US
+272,yose,Yosemite National Park,Yosemite,CA,37.8488,-119.5572,289.3,290.18,61,73,3.59,1663016694,US
+273,yuch,Yukon - Charley Rivers National Preserve,Fairbanks,AK,65.0936,-142.796,283.53,283.53,54,100,1.06,1663016694,US
+274,zion,Zion National Park,Springdale,UT,37.2984,-113.0265,296.78,298.74,34,100,3.95,1663016694,US
