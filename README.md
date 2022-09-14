@@ -23,6 +23,7 @@ After everyone completed their pieces to the project, we created a 'cleaned' fol
 
 # Requirements
 To run the scripts, you will need the following:
+
     - National Parks API Key
     - OpenWeather API Key
     - PostgreSQL
