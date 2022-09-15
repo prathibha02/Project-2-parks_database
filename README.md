@@ -9,12 +9,16 @@ To start, data is extracted by making calls two APIs and pulled from an online c
 
 The next step involves transforming the extracted data. To connect the NPS and hiking trails dataset, the park code pulled from NPS is inserted as a column in the hiking trails data. The park code will allow for easier querying down the line. Next, any trails without a corresponding national park is filtered out and saved as a separate file. To ensure quality hiking, the hiking trails data is furthered filtered for only trails with an average rating of 2 or higher and reviewed at least more than 10 times. Next, the team creates and merges an aggregate summary table of the number of trails, average difficulty and average rating per national park with the NPS data. It is important to note that the hiking trails dataset is limited to about 50 national parks, resulting in zeroes in the NPS data.
 
-The final step include loading the cleaned data into a database. Using SQLAlchemy and Pandas, the team imports the three datasets into PostgreSQL. Three tables in pgAdmin are created: alltrails, national_parks and weather_data.
+The final step include loading the cleaned data into a database. Using SQLAlchemy and Pandas, the team imports the three datasets into PostgreSQL. Three tables in pgAdmin are created: alltrails, national_parks and weather_data. There are also a number for queries at the end of the notebook to ensure data is retrievable.
 
 # Repository Description
 In the opening directory of the repository, you will find two folders and one Jupyter notebook. The first folder is the 'Working' folder, which contains a 'Resources' folder with the extracted datasets as well as another folder entitled 'cleaned' with the transformed data. The 'Working' folder also contains three others entitled: 'Extract,' 'Transform,' and 'Load.' Each of those folders contains notebooks pertaining to its respective folder name. To facilitate tasks, there is a tasks folder. We created this 'Working' to clean-up the repository for easier viewing and navigation. A better approach to this is taking advantage of branch creation in GitHub. But as an artifact of group projects with short turnover periods, instead of ensuring the repository looks beautiful at all times, we allowed everyone to focus on the tasks at hand and work with their own conventions.
 
 After everyone completed their pieces to the project, we created a 'cleaned' folder and a consolidated notebook entitled 'National_Parks' in the opening directory. The consolidated notebook takes everyone's code and flows like a story of ETL. The 'cleaned' folder contains the transformed data.
+
+There is also a SQL folder that contains two sql files. We wanted to make the database accessible without the need to run the entire Jupyter notebook. The table_schema.sql creates the three tables as mentioned before. To populate the tables with data, import these three CSV files from the 'cleaned' folder: National_Parks.csv, trails.csv and weather_data.csv. There is also a queries.sql that can be used in conjunction with the query editor in pgAdmin.
+
+Lastly, we included a 'control.py.' This file contains the three keys necessary to run the Jupyter notebook as empty strings. Replace the empty strings to the respective keys.
 
 # Modules Used
     - Pandas
