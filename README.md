@@ -1,6 +1,9 @@
 # project-2
 Project 2 Group 4 - National Parks
 
+![image](https://user-images.githubusercontent.com/107419765/190485450-2c0ff39a-31fe-4b69-99a5-cbc122e01b19.png)
+
+
 # Description
 
 The early bird gets the worm, break a leg, beat around the bush. Idioms are wise words to carry through the walk of life, but the monkey business of data science can be summarized in an acronym: ETL. ETL this, ETL that, ETL it hard and fast. But hold your horses because what in the world is ETL? ETL stands for extract, transform and load. As the name suggests, ETL is a three-phase process in which raw data is pulled from various sources, cleaned up or updated to match the intended purposes and subsquently loaded into a database readily avaiable for use. Project 2 is a collaborative exercise in the three unique stages. This repository foucses on national parks data to create a database for hikers looking for trails based on current weather conditions.
