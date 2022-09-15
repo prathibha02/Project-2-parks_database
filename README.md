@@ -33,4 +33,4 @@ To run the scripts, you will need the following:
 
     - National Parks API Key
     - OpenWeather API Key
-    - PostgreSQL
+    - PostgreSQL Key
