@@ -1,6 +1,3 @@
-# project-2
-Project 2 Group 4 - National Parks
-
 ![image](https://user-images.githubusercontent.com/107419765/190485450-2c0ff39a-31fe-4b69-99a5-cbc122e01b19.png)
 
 
